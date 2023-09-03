@@ -6,10 +6,6 @@
 
 ###
 
-![Snake animation](https://github.com/{{razo-11996}}/{{razo-11996}}/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
