@@ -1,13 +1,13 @@
 <h2 align="left">Hi 👋! My name is Razmik and I'm a web full stack developer, from Armenia.</h2>
 
 ###
+![snake animation](https://github.com/razo-11996/razo-11996/blob/output/github-contribution-grid-snake-dark.svg)
+###
+
+###
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/5621f9896579a2414e354e7edfa730438de9bd714b91ec078976eb59baa8c1af/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f43757553487a7563304f3136364d52666a742f67697068792e676966"  />
 
-###
-
-###
-![snake animation](https://github.com/razo-11996/razo-11996/blob/output/github-contribution-grid-snake-dark.svg)
 ###
 
 <div align="left">
