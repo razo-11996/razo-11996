@@ -1,9 +1,7 @@
 <h2 align="left">Hi 👋! My name is Razmik and I'm a web full stack developer, from Armenia.</h2>
 
 ###
-<a hef="https://www.linkedin.com/in/razmik-dev/">
   ![snake animation](https://github.com/razo-11996/razo-11996/blob/output/github-contribution-grid-snake-dark.svg)
-</a>
 ###
 
 ###
