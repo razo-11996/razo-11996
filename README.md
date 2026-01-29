@@ -14,7 +14,7 @@ I build scalable, high-performance web applications using modern JavaScript ecos
 
 ## 🛠 Tools & Platforms
 
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,notion,npm,phpstorm,sentry,ubuntu&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,notion,npm,phpstorm,sentry,ubuntu,rabitmq&theme=dark)
 
 ---
 
