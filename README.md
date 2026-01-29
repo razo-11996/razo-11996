@@ -1,6 +1,6 @@
 # Hi 👋, I'm Razmik
 
-### Full-Stack JavaScript Developer • Armenia 🇦🇲
+### Full Stack Software Engineer • Armenia 🇦🇲
 
 I build scalable, high-performance web applications using modern JavaScript ecosystems.
 
