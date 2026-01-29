@@ -1,45 +1,95 @@
-<h2 align="left">Hi 👋! My name is Razmik and I'm a web full stack developer, from Armenia.</h2>
+<h1 align="center">Hi 👋, I'm Razmik</h1>
 
-###
-  ![snake animation](https://github.com/razo-11996/razo-11996/blob/output/github-contribution-grid-snake-dark.svg)
-###
+<h3 align="center">
+  Full-Stack JavaScript Developer • Armenia 🇦🇲
+</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="30" alt="thealgorithms logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-</div>
+<p align="center">
+  I build scalable, high-performance web applications using modern JavaScript ecosystems.
+</p>
 
-###
-
-<div align="left">
+<p align="center">
   <a href="https://linkedin.com/in/razmik-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/raz____96" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/razo001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
+
+## 🧰 Core Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,nodejs,graphql,mongodb,webpack,php&theme=dark" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- ⚡ Full-stack JavaScript developer  
+- 🧩 SPA & SSR apps (React, Vue, Nuxt)
+- 🔌 API development (Node.js, GraphQL)
+- 🗄️ Databases (MongoDB)
+- 📦 Build optimization & tooling (Webpack)
+- ✨ Clean, maintainable, scalable code
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=dark" />
+</p>
+
+---
+
+## ⚙️ Advanced / Optional Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,docker,kubernetes,aws,nginx&theme=dark" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  System Design • Backend Architecture • Scalability • Performance Optimization
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razo-11996&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razo-11996&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=razo-11996&theme=darkhub&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/razo-11996/razo-11996/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=razo-11996&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
