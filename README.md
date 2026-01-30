@@ -8,13 +8,13 @@ I build scalable, high-performance web applications using modern JavaScript ecos
 
 ## 🧰 Core Tech Stack
 
-![Core Stack](https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,nodejs,graphql,mongodb,webpack,php,nestjs,bootstrap,devto,docker,express,firebase,ai,kali,kubernetes,laravel&theme=dark)
+![Core Stack](https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,nodejs,graphql,mongodb,webpack,php,nestjs,bootstrap,express,firebase,ai,kubernetes,laravel&theme=dark)
 
 ---
 
 ## 🛠 Tools & Platforms
 
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,notion,npm,phpstorm,sentry,ubuntu,rabitmq&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,notion,npm,phpstorm,sentry,ubuntu,kali&theme=dark)
 
 ---
 
