@@ -8,7 +8,7 @@ I build scalable, high-performance web applications using modern JavaScript ecos
 
 ## 🧰 Core Tech Stack
 
-![Core Stack](https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,nodejs,graphql,mongodb,webpack,php,nestjs,bootstrap,express,firebase,ai,kubernetes,laravel&theme=dark)
+![Core Stack](https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,nodejs,graphql,mongodb,webpack,php,nestjs,bootstrap,express,firebase,ai,laravel&theme=dark)
 
 ---
 
